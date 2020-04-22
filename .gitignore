@@ -1,1 +1,7 @@
 # idea
+/.*
+!.gitignore
+/*.iml
+
+# compile file
+/target
