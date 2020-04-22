@@ -7,5 +7,6 @@ Learning Kafka By Example
 
 #### Kafka Streams
 * [WordCountDemo](/src/main/java/com/xinyue/streams/WordCountDemo.java)：word count词频统计，基本用法
+* [MapFunctionDemo](src/main/java/com/xinyue/streams/MapFunctionDemo.java)：演示map的基本用法(将输入字符串转换成大写)
 
 更新中...
