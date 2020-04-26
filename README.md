@@ -4,7 +4,7 @@ Learning Kafka By Example
 #### Kafka Basis
 * [SimpleProducer](/src/main/java/com/xinyue/producer/SimpleProducer.java)：Kafka生产者发送消息的基本用法
 * [ConsumerGroup](/src/main/java/com/xinyue/consumer/ConsumerGroup.java)：Kafka消费者群组的基本用法
-* [ProducerWithPartitioner](src/main/java/com/xinyue/producer/ProducerWithPartitioner.java)：演示自定义分区器的用法，创建2个分区的topic，根据value长度进行分区
+* [ProducerWithPartitioner](src/main/java/com/xinyue/producer/ProducerWithPartitioner.java)：演示自定义分区器的用法，根据value长度进行分区
 
 #### Kafka Streams
 * [WordCountDemo](/src/main/java/com/xinyue/streams/WordCountDemo.java)：word count词频统计，基本用法
